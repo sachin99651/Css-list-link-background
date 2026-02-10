@@ -1,4 +1,4 @@
-````markdown
+
 # Lists, Links, Backgrounds, and Borders Review
 
 ---
